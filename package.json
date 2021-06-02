@@ -1,0 +1,21 @@
+{
+  "name": "vue2wx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "circular-json": "^0.5.9",
+    "less": "^4.1.1",
+    "postcss": "^8.2.8",
+    "postcss-clean": "^1.2.2",
+    "postcss-less-engine": "^0.6.2",
+    "postcss-less-engine-latest": "^1.0.1",
+    "postcss-rem2rpx": "^1.0.1"
+  }
+}
